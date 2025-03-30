@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/byte1z/The-Deepest-Pool-Script/refs/heads/main/script.lua"))()
